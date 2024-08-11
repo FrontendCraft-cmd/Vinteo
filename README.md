@@ -1,1 +1,1 @@
-GitHub Pages - https://nebeyi.github.io/Vinteo/
+GitHub Pages - https://frontendcraft-cmd.github.io/Vinteo/
